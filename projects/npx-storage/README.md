@@ -1,6 +1,6 @@
-# NgxStorage
+# NpxStorage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## 功能
 
@@ -11,10 +11,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 发现的问题
 
 配合历史 storage 获取值会有依赖之外的格式解析错误!
-
-## 如何调试
-
-```
-npm run watch
-npm run start
-```
